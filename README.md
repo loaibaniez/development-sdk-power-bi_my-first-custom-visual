@@ -12,7 +12,6 @@ A custom Power BI visual developed to explore **AI-assisted development with Cla
 ## 🔗 Links
 
 - 📌 [Live Demo in Power BI](https://app.powerbi.com/view?r=eyJrIjoiY2MwZWMxY2UtYmNhMy00ZGQ1LTk3YjUtYzZiNDViNWRiMTNhIiwidCI6IjEyYmMwNzYyLWZiOWEtNDFkNy1iODMyLWIzYWQ1OGE4YzRmOSIsImMiOjR9)
-- 🌐 [datavizargentina.com.ar](https://datavizargentina.com.ar)
 
 ---
 
