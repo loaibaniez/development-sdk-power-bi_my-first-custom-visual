@@ -9,10 +9,6 @@ A custom Power BI visual developed to explore **AI-assisted development with Cla
 
 **Version:** 1.0.0 · **API:** Power BI 5.11.0 · **Released:** March 2026
 
-## 🔗 Links
-
-- 📌 [Live Demo in Power BI](https://app.powerbi.com/view?r=eyJrIjoiY2MwZWMxY2UtYmNhMy00ZGQ1LTk3YjUtYzZiNDViNWRiMTNhIiwidCI6IjEyYmMwNzYyLWZiOWEtNDFkNy1iODMyLWIzYWQ1OGE4YzRmOSIsImMiOjR9)
-
 ---
 
 ## 💡 Why I Built This
